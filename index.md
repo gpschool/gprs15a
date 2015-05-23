@@ -10,7 +10,7 @@ layout: default
 {% else %}
 {{ startdate.date }} {{ startdate.month }} - {{ enddate.date }} {{ enddate.month }} {{ startdate.year }}
 {% endif %}
-{% if site.conference.hosturl %} [Hosts Local Page](https://sites.google.com/site/gpapprox/home)<br>{% endif %}
+{% if site.conference.hosturl %} [Hosts Local Page]({{ site.conference.hosturl }})<br>{% endif %}
 {% if site.conference.organizers %} organized by {% for person in site.conference.organizers %}[{{ person.name }}]({{ person.url }}){% if site.conference.organizers | size > 1 %}, {% endif %}{% endfor %}{% endif %}
 
 {% if site.conference.hosts %}hosted by {% for person in site.conference.hosts %}[{{ person.name }}]({{ person.url }}){% if site.conference.hosts | size > 1 %}, {% endif %}{% endfor %}{% endif %}

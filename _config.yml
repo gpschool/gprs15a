@@ -15,13 +15,15 @@ youtube:
 
 conference:
   hosts:
+  - {name: Alessandro Rudi, url: "http://www.iit.it/it/who-we-are/icub-facility-people/alessandro-rudi.html"}
+  - {name: Lorenzo Rosasco, url: "http://web.mit.edu/lrosasco/www/"}
   organizers:
   - {name: Neil Lawrence, url: "http://inverseprobability.com"}
   - {name: Alessandro Rudi, url: "http://www.iit.it/it/who-we-are/icub-facility-people/alessandro-rudi.html"}
   - {name: Lorenzo Rosasco, url: "http://web.mit.edu/lrosasco/www/"}
   name: Gaussian Process Winter School
-  location: Università di Genoa, Italy
   hosturl: http://lcsl.mit.edu/courses/gpws/
+  location: Università di Genoa, Italy
   year: 2015
   month: January
   dates:
