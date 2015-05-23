@@ -1,8 +1,8 @@
 day,date,month,start,end,title,pdf,ipynb,speaker,institution,youtube
 Monday,19,January,9:30,12:30,**Regression and Probability**,./assets/session1.pdf,,Neil Lawrence,University of Sheffield,
-Monday,19,January,14:00,16:00,**Lab Class One**,,,Neil Lawrence,University of Sheffield,
+Monday,19,January,14:00,16:00,**Lab Class One**,,http://nbviewer.ipython.org/github/gpschool/gprs15a/blob/master/index.ipynb,Neil Lawrence,University of Sheffield,
 Tuesday,20,January,9:30,12:30,**Gaussian Processes**,./assets/session2.pdf,,Neil Lawrence,University of Sheffield,
-Tuesday,20,January,14:00,16:00,**Lab Class Two**,,,Neil Lawrence,University of Sheffield,
+Tuesday,20,January,14:00,16:00,**Lab Class Two**,,http://nbviewer.ipython.org/github/gpschool/gprs15a/blob/master/index.ipynb,Neil Lawrence,University of Sheffield,
 Wednesday,21,January,9:30,12:30,**Multiple Output Processes**,./assets/session3.pdf,,Neil Lawrence,University of Sheffield,
 Thursday,22,January,9:30,12:30,**Approximations**,./assets/session4.pdf,,Neil Lawrence,University of Sheffield,
-Thursday,22,January,14:00,16:00,**Lab Class Three**,,,Neil Lawrence,University of Sheffield,
+Thursday,22,January,14:00,16:00,**Lab Class Three**,,http://nbviewer.ipython.org/github/gpschool/gprs15a/blob/master/index.ipynb,Neil Lawrence,University of Sheffield,
